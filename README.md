@@ -1,15 +1,17 @@
 ## Hi there 👋
 
-<!--
-**BowserZ/BowserZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Full Stack Developer passionate about building efficient and scalable web applications. I have experience working with:
 
-Here are some ideas to get you started:
+🛠️ Languages & Tools: HTML, CSS, JavaScript, React, Python and SQL.
+⚙️ API Integration: Handling and integrating APIs using Python.
+⚡ Frontend Development: Building interactive user interfaces with React.
+📚 Always learning and expanding my knowledge in web development and backend technologies.
 
-- 🔭 I’m currently working on myself...
-- 🌱 I’m currently learning from 4Geeks Academy...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: I was a top 200 player of Mario Soccer Wii globally for at least 3 weeks.
--->
+🚀 What I'm working on:
+- Developing dynamic and responsive apps using React.
+- Improving my skills in full-stack development.
+- Exploring advanced concepts in Python and SQL.
+- Building projects that challenge me and help me grow.
+  
+📫 How to reach me:
+- juanpinto07@gmail.com
