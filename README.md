@@ -1,5 +1,5 @@
 I'm a Junior Full Stack Developer passionate about building efficient and scalable web applications.  
-I have experience working with:
+I have knowledge in:
 
 ---
 
