@@ -2,12 +2,7 @@
 
 I'm a Junior Full Stack Developer passionate about building efficient and scalable web applications. I have experience working with:
 
-🛠️ Languages & Tools: HTML5, CSS, JavaScript, React, Python and SQL. ⚙️ API Integration: Handling and integrating APIs using Python. ⚡ Frontend Development: Building interactive user interfaces with React. 📚 Always learning and expanding my knowledge in web development and backend technologies.
-
-Se ve asi, no se ve la imagen.
-
-Se ve asi, no se ve la imagen.
-and SQL.
+🛠️ Languages & Tools: HTML5, CSS, JavaScript, React, Python and SQL. 
 ⚙️ API Integration: Handling and integrating APIs using Python.
 ⚡ Frontend Development: Building interactive user interfaces with React.
 📚 Always learning and expanding my knowledge in web development and backend technologies.
